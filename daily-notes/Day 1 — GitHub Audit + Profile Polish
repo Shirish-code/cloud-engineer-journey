@@ -1,0 +1,22 @@
+**Date:** May 24, 2026
+**Phase:** Foundations · Week 1
+**Hours:** ~3 hours focused work
+
+## Tasks completed
+- [x] Audited 23 existing repos → kept 9 active + 4 archived
+- [x] Deleted 10 noise/course-assignment repos
+- [x] Rewrote GitHub bio to position as Cloud/DevOps Engineer
+- [x] Set new pins (4 cloud projects + capstone)
+- [x] Rebuilt Profile README from default to recruiter-grade landing card
+- [x] Skipped custom domain — using free `*.github.io` path
+- [x] Created this master journey repo
+
+## Key wins
+- Profile went from "Aspiring Cybersecurity Professional" to clear Cloud/DevOps positioning
+- Featured projects now showcase real Terraform + AWS work (OpsPulse, 3-tier, capstone)
+- Capstone (SeaOfStylePlatform) properly credited with my infrastructure role
+
+## Repos cleaned
+**Deleted (10):** clo835_summer2023_assignment1, clo-assignment2, clo835-assignment2, clo835-a1-app, clo835-a1-terraform, kubernetes-in-action, week11, lab5, DRS-Sysytem, website-template
+
+**Archived (4):** 2-Tiered-Highly-Available-Web-Application, Portfolio, credit-card-Fraud-detection, Friday-AI
